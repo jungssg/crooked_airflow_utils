@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="jsui-MacBookAir.local" name="pytest" skipped="0" tests="1" time="0.041" timestamp="2023-06-09T14:36:01.559746"><testcase classname="tests.crooked_airflow_utils.test_crooked_airflow_utils" name="test_ping" time="0.000" /></testsuite></testsuites>

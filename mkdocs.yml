@@ -7,7 +7,7 @@ theme:
   logo: img/logo.png
   favicon: img/favicon-16x16.png
   name: "material"
-  language: kr
+  language: en
   features:
     - navigation.sections
     - navigation.top
